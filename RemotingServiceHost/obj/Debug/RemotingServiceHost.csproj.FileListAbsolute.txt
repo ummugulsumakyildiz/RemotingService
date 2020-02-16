@@ -1,0 +1,10 @@
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\RemotingServiceHost\obj\Debug\RemotingServiceHost.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\RemotingServiceHost\bin\Debug\RemotingServiceHost.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\RemotingServiceHost\bin\Debug\RemotingServiceHost.exe
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\RemotingServiceHost\bin\Debug\RemotingServiceHost.pdb
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\RemotingServiceHost\bin\Debug\HelloRemotingService.dll
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\RemotingServiceHost\bin\Debug\IHelloRemotingService.dll
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\RemotingServiceHost\bin\Debug\HelloRemotingService.pdb
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\RemotingServiceHost\bin\Debug\IHelloRemotingService.pdb
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\RemotingServiceHost\obj\Debug\RemotingServiceHost.exe
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\RemotingServiceHost\obj\Debug\RemotingServiceHost.pdb

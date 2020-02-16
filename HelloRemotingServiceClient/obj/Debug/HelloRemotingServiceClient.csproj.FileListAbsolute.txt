@@ -1,0 +1,11 @@
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\HelloRemotingServiceClient\bin\Debug\HelloRemotingServiceClient.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\HelloRemotingServiceClient\bin\Debug\HelloRemotingServiceClient.exe
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\HelloRemotingServiceClient\bin\Debug\HelloRemotingServiceClient.pdb
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\HelloRemotingServiceClient\bin\Debug\IHelloRemotingService.dll
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\HelloRemotingServiceClient\bin\Debug\IHelloRemotingService.pdb
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.Form1.resources
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.Properties.Resources.resources
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.csproj.GenerateResource.Cache
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.exe
+c:\users\user1\documents\visual studio 2015\Projects\IHelloRemotingService\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.pdb
